@@ -1,8 +1,8 @@
-# Cubase Elements 14 AI Collective
+# Cubase Elements 14 AI Lifetime
 
 ![Cubase Elements 14 AI Collective Banner](https://i.ytimg.com/vi/e5B2aCaw73U/maxresdefault.jpg)
 
-**About Cubase Elements 14 AI Collective**: Cubase Elements 14 AI Collective is a global community of over 600K licensed creators mastering Cubase Elements 14. We deliver editable AI templates, modulation presets, and lifetime upgrade guides — with **free trial access** to pro-level audio AI in a safe, offline setup.
+**About Cubase Elements 14 AI Lifetime**: Cubase Elements 14 AI Lifetime is a global community of over 600K licensed creators mastering Cubase Elements 14. We deliver editable AI templates, modulation presets, and lifetime upgrade guides — with **free trial access** to pro-level audio AI in a safe, offline setup.
 
 **Next Steps**: Jump into our repository below to start AI music production now!
 
@@ -19,6 +19,7 @@
 ---
 
 ## What we share
+
 - AI audio edit & modulation templates
 - Upgrade lifetime preset packs
 - Export profiles for YouTube, Spotify
